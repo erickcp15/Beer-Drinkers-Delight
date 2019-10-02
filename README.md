@@ -15,7 +15,7 @@ https://erickcp15.github.io/BDD-6.github.io/index_molly.html
 Home Page
 https://github.com/erickcp15/BDD-7.github.io
 
-https://erickcp15.github.io/BDD-7.github.io/index.html
+https://erickcp15.github.io/BDD-7.github.io/
 
 Tableau
 https://bdd-1.herokuapp.com/
