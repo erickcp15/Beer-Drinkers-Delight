@@ -1,5 +1,7 @@
 # Project2- Beer Drinkers Delight
 
+# https://erickcp15.github.io/BDD-7.github.io/
+
 Topic and rationale: 
 We're a small group of entrepeneurs that need investors to open a brewery. Created a website to show investors the necessary information to invest in the most profitable type of brewery at the best location.  
  
