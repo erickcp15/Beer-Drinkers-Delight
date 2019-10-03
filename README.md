@@ -5,8 +5,8 @@
 Topic and rationale: 
 We're a small group of entrepeneurs that need investors to open a brewery. So our group created a website to show investors the necessary information to invest in the most profitable type of brewery at the best location.  
  
-
 Members:  Erick, Kaylie, Mei, Molly
+
 Data Source: https://www.openbrewerydb.org/
 
 STEPS:
