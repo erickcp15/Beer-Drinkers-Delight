@@ -1,15 +1,25 @@
 # Project2- Beer Drinkers Delight
-The steps we did
+
+Topic and rationale: 
+We're a small group of entrepeneurs that need investors to open a brewery. Created a website to show investors the necessary information to invest in the most profitable type of brewery at the best location.  
+ 
+
+Members:  Erick, Kaylie, Mei, Molly
+Data Source: https://www.openbrewerydb.org/
+
+STEPS:
 
 Found a datasource called OpenbreweryDB.org which is an API
 
-From there in a python file Molly pip installed the API and then converted the API to a csv file.
+In a python file, Molly pip installed the API and then converted the API to a csv file.
 
+Used Postgres to upload data into a database
 
+Graphs were created using this data-new JS library used is Highcarts
 
+created HTML homepage and links to other HTML that contain graphs  
 
-
-
+Hosted multiple html files on Heroku and GitHub.IO
 
 The Tableau Public Visual
 https://public.tableau.com/views/Project-Beer/BreweryCountbyType?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link
