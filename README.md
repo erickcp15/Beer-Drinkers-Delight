@@ -3,7 +3,7 @@
 # https://erickcp15.github.io/BDD-7.github.io/
 
 Topic and rationale: 
-We're a small group of entrepeneurs that need investors to open a brewery. Created a website to show investors the necessary information to invest in the most profitable type of brewery at the best location.  
+We're a small group of entrepeneurs that need investors to open a brewery. So our group created a website to show investors the necessary information to invest in the most profitable type of brewery at the best location.  
  
 
 Members:  Erick, Kaylie, Mei, Molly
