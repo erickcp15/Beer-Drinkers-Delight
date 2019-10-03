@@ -1,4 +1,13 @@
 # Project2- Beer Drinkers Delight
+The steps we did
+-Found a datasource called OpenbreweryDB.org which is an API
+-From there in a python file Molly pip installed the API and then converted the API to a csv file.
+-
+
+
+
+
+
 The Tableau Public Visual
 https://public.tableau.com/views/Project-Beer/BreweryCountbyType?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link
 
