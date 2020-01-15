@@ -2,6 +2,9 @@
 
 # https://erickcp15.github.io/BDD-7.github.io/
 
+# https://public.tableau.com/profile/kaylie7814#!/vizhome/BeerData-FINAL/HighestRankedBeerbyState?publish=yes
+Tableau Dashboard with Machine Learning integrated in Python to predict beer based on data from Untapped.
+
 Topic and rationale: 
 We're a small group of entrepeneurs that need investors to open a brewery. Created a website to show investors the necessary information to invest in the most profitable type of brewery at the best location.  
  
